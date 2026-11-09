@@ -79,7 +79,7 @@ pip install psycopg2-binary python-dotenv
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=library_db
-DB_USER=postgres
+DB_USER=saswata
 DB_PASS=Ronti@2001
 ```
 
