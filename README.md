@@ -46,7 +46,6 @@ Library_Management_System/
 ├── .env                    # Secure database credentials (ignored in Git)
 ├── .gitignore              # Excludes venv, .env, and cache files
 ├── schema.sql              # Database DDL statements & constraints
-├── seed.sql                # Initial mock data insertion scripts
 ├── library_app.py          # Python backend transaction script
 └── README.md               # Comprehensive project documentation
 ```
@@ -81,7 +80,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=library_db
 DB_USER=postgres
-DB_PASS=your_secure_password
+DB_PASS=Ronti@2001
 ```
 
 ---
