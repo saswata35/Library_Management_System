@@ -45,11 +45,10 @@ Library_Management_System/
 ├── venv/                   # Isolated Python virtual environment
 ├── .env                    # Secure database credentials (ignored in Git)
 ├── .gitignore              # Excludes venv, .env, and cache files
-├── schema.sql              # Database DDL statements & constraints
+├── Coding.docx             # Here is the Coding file where SQL Script is there.
 ├── library_app.py          # Python backend transaction script
 └── README.md               # Comprehensive project documentation
 ```
-
 ---
 
 ## 3. Step-by-Step Implementation Guide
