@@ -46,6 +46,8 @@ Library_Management_System/
 ├── .env                    # Secure database credentials (ignored in Git)
 ├── .gitignore              # Excludes venv, .env, and cache files
 ├── Coding.docx             # Here is the Coding file where SQL Script is there.
+├── schema.sql              # Schema Creation
+├── seed.sql                # Seeding the Data
 ├── library_app.py          # Python backend transaction script
 └── README.md               # Comprehensive project documentation
 ```
